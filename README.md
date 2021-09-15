@@ -1,1 +1,1 @@
-<a href="plugin.video.zip"> stream iptv</a><td>369KB</td><br>
+<a href="plugin.video.zip">plugin.video.zip</a><td>369KB</td><br>
