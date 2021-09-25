@@ -1,1 +1,1 @@
-<a href="plugin.video.zip"> plugin.video.zip </a><td>369KB</td><br>
+<a href="repository.vstream-0.0.3.zip">repository.vstream-0.0.3.zip</a><td>369KB</td><br>
